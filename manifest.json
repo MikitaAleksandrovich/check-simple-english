@@ -1,0 +1,17 @@
+{
+    "name": "Check Simple English!",
+    "description": "Check page's for Simple English",
+    "version": "0.1",
+    "manifest_version": 2,
+    "permissions": [
+      "activeTab"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
